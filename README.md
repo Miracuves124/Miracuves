@@ -15,6 +15,6 @@ In essence, Miracuves’ Same Day Delivery App, powered by the Amazon Flex API, 
 
 
 <br><p1>Visit us for the best-customised app development service:<a href="https://miracuves.com/">Miracuves</a></p1></br>
-<br>Call Us For More Details: +919830009649</br>
+Call Us For More Details: +919830009649
 Email Us: info@miracuves.com
 
